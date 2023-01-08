@@ -29,7 +29,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     packages=find_packages(),
-    install_requires=["matplotlib==3.5.3",
+    install_requires=["matplotlib==3.6.2",
                       "numpy==1.23.2",
                       "varname==0.9.0",
 
